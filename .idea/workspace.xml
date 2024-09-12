@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4b848fe-6344-47c6-99bb-4e77ab658cb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/todo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonusd10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d10bugfixinge1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d10ce1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d10ce3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d11_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d11b1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d11bugfixing1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d11ce1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d11ce2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d12be.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d12ce1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d12ce2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d12ce3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d12ce4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d12ce5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d12ce6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d13bugfixing1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d13ce1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d13ce2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d13ce3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d13ce4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d13ce5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d14be.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d14be_modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d14ce1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d14ce2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d14ce3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d15be.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d15bugfixing1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d15ce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d15ce2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d15ce3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d15ce4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d15cev2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d4e3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d4ee4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d5_bonus_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d5ce5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d5ce6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d5ce7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d5e16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d5e17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d5e19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d5e20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d7e25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d7e26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d7e27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d7e28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/d8ce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/e2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/ep3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/files/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/output.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/presentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/questions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/essay.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/members.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/presentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/todos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/journal/2024-01-01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/functions.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jbjwiTwllehqg1tAAC2wo83ANb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.bonus10.executor": "Run",
+    "Python.bonus2.2.executor": "Run",
+    "Python.bonus6.executor": "Run",
+    "Python.bonus7.executor": "Run",
+    "Python.bonus8.executor": "Run",
+    "Python.bonusd10.executor": "Run",
+    "Python.d10bugfixinge1.executor": "Run",
+    "Python.d10ce1.executor": "Run",
+    "Python.d10ce3.executor": "Run",
+    "Python.d11_functions.executor": "Run",
+    "Python.d11b1.executor": "Run",
+    "Python.d11bugfixing1.executor": "Run",
+    "Python.d11ce1.executor": "Run",
+    "Python.d11ce2.executor": "Run",
+    "Python.d12be.executor": "Run",
+    "Python.d12ce1.executor": "Run",
+    "Python.d12ce2.executor": "Run",
+    "Python.d12ce3.executor": "Run",
+    "Python.d13bugfixing1.executor": "Run",
+    "Python.d13ce1.executor": "Run",
+    "Python.d13ce2.executor": "Run",
+    "Python.d13ce5.executor": "Run",
+    "Python.d14be.executor": "Run",
+    "Python.d14ce1.executor": "Run",
+    "Python.d14ce2.executor": "Run",
+    "Python.d14ce3.executor": "Run",
+    "Python.d15be.executor": "Run",
+    "Python.d15ce.executor": "Run",
+    "Python.d15ce2.executor": "Run",
+    "Python.d15ce3.executor": "Run",
+    "Python.d15ce4.executor": "Run",
+    "Python.d15cev2_1.executor": "Run",
+    "Python.d4e3.executor": "Run",
+    "Python.d5_bonus_example.executor": "Run",
+    "Python.d5ce5.executor": "Run",
+    "Python.d5ce6.executor": "Run",
+    "Python.d5ce7.executor": "Run",
+    "Python.d5e16.executor": "Run",
+    "Python.d5e17.executor": "Run",
+    "Python.d5e19.executor": "Run",
+    "Python.d5e20.executor": "Run",
+    "Python.d7e25.executor": "Run",
+    "Python.d7e26.executor": "Run",
+    "Python.d7e27.executor": "Run",
+    "Python.d7e28.executor": "Run",
+    "Python.d8ce.executor": "Run",
+    "Python.e2.executor": "Run",
+    "Python.ep3.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.time.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/simoncarrier/Documents/python/todo/bonus",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bonus" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bonus" />
+      <recent name="$PROJECT_DIR$/modules" />
+      <recent name="$PROJECT_DIR$/files" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4b848fe-6344-47c6-99bb-4e77ab658cb7" name="Changes" comment="" />
+      <created>1721662910901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721662910901</updated>
+      <workItem from="1721662917179" duration="15642000" />
+      <workItem from="1721748254459" duration="32000" />
+      <workItem from="1721748309533" duration="70000" />
+      <workItem from="1721748401009" duration="299000" />
+      <workItem from="1721749120824" duration="196000" />
+      <workItem from="1721749330278" duration="12000" />
+      <workItem from="1721749603015" duration="586000" />
+      <workItem from="1721750213258" duration="79000" />
+      <workItem from="1721780823228" duration="40000" />
+      <workItem from="1721780966432" duration="1112000" />
+      <workItem from="1721782678354" duration="903000" />
+      <workItem from="1722223037060" duration="5855000" />
+      <workItem from="1722278670616" duration="280000" />
+      <workItem from="1722278958161" duration="30182000" />
+      <workItem from="1722515600753" duration="50000" />
+      <workItem from="1722515659190" duration="1294000" />
+      <workItem from="1722517130453" duration="454000" />
+      <workItem from="1722517591458" duration="3483000" />
+      <workItem from="1722652504661" duration="11669000" />
+      <workItem from="1723252228931" duration="95739000" />
+      <workItem from="1726111506426" duration="1144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/todo$d15ce4.coverage" NAME="d15ce4 Coverage Results" MODIFIED="1726026537286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d11bugfixing1.coverage" NAME="d11bugfixing1 Coverage Results" MODIFIED="1725643289067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d14ce1.coverage" NAME="d14ce1 Coverage Results" MODIFIED="1725937813891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$time.coverage" NAME="time Coverage Results" MODIFIED="1726023627739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Library/Caches/JetBrains/PyCharm2024.1/python_stubs/116181138" />
+    <SUITE FILE_PATH="coverage/todo$d5e16.coverage" NAME="d5e16 Coverage Results" MODIFIED="1722281810680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$e2.coverage" NAME="e2 Coverage Results" MODIFIED="1721667124118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/todo$d12ce1.coverage" NAME="d12ce1 Coverage Results" MODIFIED="1725674288866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d7e28.coverage" NAME="d7e28 Coverage Results" MODIFIED="1722366436790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d11ce1.coverage" NAME="d11ce1 Coverage Results" MODIFIED="1725641205235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d13ce1.coverage" NAME="d13ce1 Coverage Results" MODIFIED="1725842054040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d10bugfixinge1.coverage" NAME="d10bugfixinge1 Coverage Results" MODIFIED="1725633093085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d13bugfixing1.coverage" NAME="d13bugfixing1 Coverage Results" MODIFIED="1725844688729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d11_functions.coverage" NAME="d11_functions Coverage Results" MODIFIED="1725636974032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d5e19.coverage" NAME="d5e19 Coverage Results" MODIFIED="1722311087939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d5_bonus_example.coverage" NAME="d5_bonus_example Coverage Results" MODIFIED="1722281441578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d15be.coverage" NAME="d15be Coverage Results" MODIFIED="1726110364597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d5ce5.coverage" NAME="d5ce5 Coverage Results" MODIFIED="1722359008924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d15cev2_1.coverage" NAME="d15cev2_1 Coverage Results" MODIFIED="1726110831940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d11ce2.coverage" NAME="d11ce2 Coverage Results" MODIFIED="1725642111273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d5e20.coverage" NAME="d5e20 Coverage Results" MODIFIED="1722358357870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d7e26.coverage" NAME="d7e26 Coverage Results" MODIFIED="1722366174267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d13ce2.coverage" NAME="d13ce2 Coverage Results" MODIFIED="1725843186527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$bonus8.coverage" NAME="bonus8 Coverage Results" MODIFIED="1722396177661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d12ce2.coverage" NAME="d12ce2 Coverage Results" MODIFIED="1725676493736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d11b1.coverage" NAME="d11b1 Coverage Results" MODIFIED="1725640699678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$main.coverage" NAME="main Coverage Results" MODIFIED="1726023947095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/todo$ep3.coverage" NAME="ep3 Coverage Results" MODIFIED="1721675802379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d10ce1.coverage" NAME="d10ce1 Coverage Results" MODIFIED="1725632766211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$bonusd10.coverage" NAME="bonusd10 Coverage Results" MODIFIED="1724215128669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d15ce2.coverage" NAME="d15ce2 Coverage Results" MODIFIED="1726026214373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d7e25.coverage" NAME="d7e25 Coverage Results" MODIFIED="1722366017565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d14ce2.coverage" NAME="d14ce2 Coverage Results" MODIFIED="1725937905265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d5ce7.coverage" NAME="d5ce7 Coverage Results" MODIFIED="1722361800783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d14be.coverage" NAME="d14be Coverage Results" MODIFIED="1725937230882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d10ce3.coverage" NAME="d10ce3 Coverage Results" MODIFIED="1725632850215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d15ce.coverage" NAME="d15ce Coverage Results" MODIFIED="1726024732261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d7e27.coverage" NAME="d7e27 Coverage Results" MODIFIED="1722366252405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$bonus7.coverage" NAME="bonus7 Coverage Results" MODIFIED="1722365120295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d14ce3.coverage" NAME="d14ce3 Coverage Results" MODIFIED="1725938192971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d8ce.coverage" NAME="d8ce Coverage Results" MODIFIED="1722395026015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d15ce3.coverage" NAME="d15ce3 Coverage Results" MODIFIED="1726026441751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d12ce3.coverage" NAME="d12ce3 Coverage Results" MODIFIED="1725676882948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d5e17.coverage" NAME="d5e17 Coverage Results" MODIFIED="1722310914563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d4e3.coverage" NAME="d4e3 Coverage Results" MODIFIED="1722273978145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d13ce5.coverage" NAME="d13ce5 Coverage Results" MODIFIED="1725844596829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d12be.coverage" NAME="d12be Coverage Results" MODIFIED="1725682038714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$bonus2_2.coverage" NAME="bonus2.2 Coverage Results" MODIFIED="1721671536713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$bonus10.coverage" NAME="bonus10 Coverage Results" MODIFIED="1722738682331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$bonus6.coverage" NAME="bonus6 Coverage Results" MODIFIED="1722356141863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+    <SUITE FILE_PATH="coverage/todo$d5ce6.coverage" NAME="d5ce6 Coverage Results" MODIFIED="1722360978062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bonus" />
+  </component>
+</project>
