@@ -7,7 +7,7 @@ print(f"It is, {now}")
 filepath = input("Enter file path: ")
 while True:
     try:
-        with open('files/todos.txt', 'r') as file:
+        with open(filepath, 'r') as file:
             todos = functions.get_todos(filepath)
 
             # Get user input and strip space chars from it
