@@ -10,3 +10,4 @@ Make wrap
 Make soup
 Make pasta
 Make Poutine
+Manger un croissant
