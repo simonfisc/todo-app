@@ -1,23 +1,19 @@
 import functions
 import FreeSimpleGUI as sg
 import time
-import os
 
 # Define the window's contents
-if not os.path.exists("files/todos.txt"):
-    with open("files/todos.txt", "w") as file:
-        pass
 
 sg.theme("Black")
 
 clock = sg.Text("", key="clock")
 label = sg.Text("Type in a to-do")
 input_box = sg.InputText(tooltip="Enter todo", key="todo")
-add_button = sg.Button(size=2, image_source="files/add.png", mouseover_colors="LightBlue", key="Add")
+add_button = sg.Button(size=10, image_source="files/add.png")
 list_box = sg.Listbox(values=functions.get_todos(), key="list",
                       enable_events=True, size=[45,10])
 edit_button = sg.Button("Edit")
-complete_button = sg.Button(size=2, image_source="files/complete.png", mouseover_colors="LightBlue", key="Complete")
+complete_button = sg.Button("Complete")
 exit_button = sg.Button("Exit")
 
 layout = [[clock], [label], [input_box, add_button],
@@ -52,7 +48,7 @@ while True:
                 todos[index] = new_todo
                 functions.write_todos(todos)
                 window['list'].update(values=todos)
-                window['todo'].update("")
+                #window['todo'].update("")
             except IndexError:
                 sg.popup("Please select an item first", font=("Helvetica", 15))
                 exit
@@ -63,7 +59,7 @@ while True:
                 todos.remove(todo_to_complete)
                 functions.write_todos(todos)
                 window['list'].update(values=todos)
-                window['todo'].update(value="")
+                window['todo'].update(values="")
             except IndexError:
                 sg.popup("Please select an item first", font=("Helvetica", 15))
                 exit
